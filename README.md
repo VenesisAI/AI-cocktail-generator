@@ -34,7 +34,7 @@ Possible use cases:
 * Bars and restaurants seeking unique menu offerings.
 
 Example interface (to be developed):
-![Example Interface](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+![Example Interface](freepik_edit_Candid-image-photography-natural-textures-highly-r.jpg)
 
 ## Data sources and AI methods
 
