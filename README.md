@@ -1,6 +1,6 @@
 # AI Cocktail Generator
 
-
+Final project for the Building AI course
 
 ## Summary
 
