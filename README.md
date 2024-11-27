@@ -33,7 +33,7 @@ Possible use cases:
 * Cocktail enthusiasts experimenting at home.
 * Bars and restaurants seeking unique menu offerings.
 
-Example interface (to be developed):
+Example:
 ![Example Interface](freepik_edit_Candid-image-photography-natural-textures-highly-r.jpg)
 
 ## Data sources and AI methods
