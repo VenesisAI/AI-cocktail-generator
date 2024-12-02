@@ -71,7 +71,7 @@ Looking for collaborators with skills in:
 - AI/ML model development.
 - UI/UX design for the tool’s interface.
 
-This repository contains an overview and conceptual design of the project. For access to further development or to collaborate, please contact me directly at gradinarov@venesis.ai.
+This repository contains an overview and conceptual design of the project. For access to further development or to collaborate, please contact me directly at v.gradinarov@venesis.ai.
 
 ## Acknowledgments
 
